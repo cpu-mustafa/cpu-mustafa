@@ -4,7 +4,7 @@
 
 > Türkiye'deki restoranlar için kendi yazılım ürünümü sıfırdan geliştirdim, canlıya çıkardım ve destekliyorum. İşi sonuna kadar götüren, hızlı öğrenen bir geliştiriciyim.
 
-📍 İstanbul (Üsküdar) · 💼 **Tam zamanlı iş arıyorum** (ofis veya hibrit) · ✅ Askerlik tamamlandı · 📧 [gs.mustafagedik@gmail.com](mailto:gs.mustafagedik@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/mustafa-gedik-964366270)
+📍 İstanbul (Üsküdar) · 💼 **Tam zamanlı iş arıyorum** (ofis veya hibrit) · ✅ Askerlik tamamlandı · 📧 [gs.mustafagedik@gmail.com](mailto:gs.mustafagedik@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-gedik-null-556a461b2)
 
 ---
 
