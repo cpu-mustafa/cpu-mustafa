@@ -51,4 +51,4 @@ Kanban görev panosu ve Google Takvim senkronu, saf HTML/CSS/JS. **[Canlı demo]
 
 ## 📬 İletişim
 
-Tam zamanlı iş fırsatları için bana yazabilirsiniz: **[gs.mustafagedik@gmail.com](mailto:gs.mustafagedik@gmail.com)** · **0543 437 71 08**
+Tam zamanlı iş fırsatları için bana yazabilirsiniz: **[gs.mustafagedik@gmail.com](mailto:gs.mustafagedik@gmail.com)**
